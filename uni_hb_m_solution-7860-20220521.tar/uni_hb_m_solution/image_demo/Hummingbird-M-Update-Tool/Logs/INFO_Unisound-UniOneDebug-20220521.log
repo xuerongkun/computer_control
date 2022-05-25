@@ -1,0 +1,12 @@
+Log file created at: 2022/05/21 08:16:47  PID: 39716
+Running on machine: DESKTOP-KICQ55B
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0521 08:16:47.895874 39732 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0521 08:16:52.103685 39732 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 5 
+I0521 08:16:52.118645 39732 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:5 
+ 
+I0521 08:16:58.976855 39632 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM5 XmodermSendFile detected CCC, start send file 
+ 
+I0521 08:16:58.978843 39632 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM5 ReadSendFile uni_app_release_update.bin m_iTransferTimes finished 1318 
+ 
